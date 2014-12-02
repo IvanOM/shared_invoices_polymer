@@ -1,0 +1,29 @@
+{
+  "name": "shared_invoices_polymer",
+  "version": "0.0.0",
+  "description": "Shared Invoices interface implemented with polymer elements",
+  "main": "public/index.html",
+  "keywords": [
+    "shared",
+    "invoices",
+    "angular",
+    "polymer"
+  ],
+  "authors": [
+    "Ivan Oliveira Morais",
+    "Henrique Cardoso de Faria"
+  ],
+  "license": "MIT",
+  "homepage": "shared-invoices.herokuapp.com",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#~0.5.1"
+  }
+}
